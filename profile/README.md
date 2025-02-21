@@ -1,4 +1,5 @@
-![Cover Photo - Github](https://github.com/user-attachments/assets/366815d0-cb8a-4b78-b00b-e4abfcea4541)
+![Cover Photo - Github](https://github.com/user-attachments/assets/f3640a6d-4292-4d2d-99c8-c5edbd2770b2)
+
 
 <p align="center">
     <a href="https://backyard-studios-website.vercel.app/">
